@@ -1,0 +1,7 @@
+{
+  "spot_tickets": 200,
+  "eligible_spot_tickets": 10,
+  "eligible_spot_percent": 5.0,
+  "roll_groups": 30,
+  "eligible_roll_groups": 2
+}

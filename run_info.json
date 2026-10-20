@@ -1,0 +1,11 @@
+{
+  "policy": "max_initial_coverage_then_latest_exit; illustrative, not inferred truth",
+  "raw_spots": 200,
+  "raw_rolls": 60,
+  "source_groups": 160,
+  "roll_groups": 30,
+  "candidate_source_roll_links": 2,
+  "chronology": "conservative grouped execution: previous max <= next min",
+  "amount_convention": "signed base currency; positive LONG, negative SHORT; roll sign refers to far leg",
+  "note": "Bounds are independent. Ground truth is never loaded. No calibrated probabilities."
+}

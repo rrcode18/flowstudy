@@ -1,0 +1,3 @@
+client_id,pair,value_date,roll_trade_id,source_group_id,roll_group_id,roll_start_date,roll_end_date,allocated_amount,lower_bound,upper_bound,policy_lower,policy_upper,ambiguity,policy_ambiguity,spot_ids,roll_ids
+C001,EURUSD,2026-10-05,RT001,P001,RG001,2026-10-05,2026-10-12,6000000.0,0.0,6000000.0,5999999.985714,6000000.0,YES,NO,S0001;S0002;S0003;S0004;S0005,R0001;R0002
+C002,GBPUSD,2026-10-06,RT002,P002,RG002,2026-10-06,2026-10-13,-4000000.0,-4000000.0,-0.0,-4000000.0,-3999999.985714,YES,NO,S0006;S0007;S0008;S0009;S0010,R0003;R0004
